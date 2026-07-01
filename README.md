@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sachin Rakesh Yadav</h1>
+<h3 align="center">Backend Engineer | Full-Stack Developer | Cybersecurity & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Backend+Engineer;Full+Stack+Developer;AppSec+%26+AI%2FML+Enthusiast;Open+Source+Contributor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Backend+Engineer;Full+Stack+Developer;AppSec+%26+AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sachinyadav.work@gmail.com">
+  <a href="mailto:yadavsr7@rknec.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -23,13 +23,14 @@
 
 ### 💫 About Me
 
-I am a passionate software engineer based in India, specializing in building full-stack web applications and AI-driven systems. I enjoy translating complex ideas into elegant, clean, and scalable code.
+I am a Cybersecurity-focused Computer Science undergraduate specializing in **Application Security, Secure Backend Engineering, Authentication Systems, and Threat-Aware System Design**. I love building encrypted platforms, access-controlled APIs, and AI-powered security analytics tools.
 
-- 🔭 **I’m currently working on**: Enhancing full-stack apps and developing intelligent automation crawlers.
-- 🌱 **I’m currently learning**: Advanced machine learning, system design, and cloud architecture.
-- 👯 **I’m looking to collaborate on**: Open-source AI projects and collaborative web development.
-- 💬 **Ask me about**: JavaScript/TypeScript, Python, OpenCV, and Web Security.
-- ⚡ **Fun fact**: I love building scrapers to index data from the web and automate repetitive tasks!
+- 🎓 **Education**: B.Tech in Computer Science Engineering (Cyber Security) at **Shri Ramdeobaba College of Engineering and Management, Nagpur** (2023 – Present | CGPA: 8.34).
+- 💼 **Experience**: 
+  - *Technical Intern* at **Edunet Foundation** (Apr 2025) – Developed backend workflows & face recognition authentication pipeline.
+  - *Cybersecurity Virtual Intern* at **Palo Alto Networks** (2025) – Studied secure application design, threat modeling, and network defense.
+- 🏆 **LeetCode**: Solved **190+** Data Structures & Algorithms problems.
+- ⚡ **Fun fact**: I combine AI/ML (like CodeBERT and transformer embeddings) with security engineering to build smart threat detection tools.
 
 ---
 
@@ -40,33 +41,54 @@ I am a passionate software engineer based in India, specializing in building ful
     <td valign="top" width="33%">
       <h4>💻 Languages</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <br/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
     </td>
     <td valign="top" width="33%">
-      <h4>🌐 Web & Frameworks</h4>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <h4>🌐 Backend & Systems</h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
     <td valign="top" width="34%">
-      <h4>🔧 Tools & Libs</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-      <br/>
+      <h4>🛡️ Security & AI/ML</h4>
+      <img src="https://img.shields.io/badge/Cryptography-AES--256-blue?style=flat-square" alt="AES-256" />
+      <img src="https://img.shields.io/badge/Auth-RBAC%20%7C%20MFA%20%7C%20OAuth-red?style=flat-square" alt="Authentication" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/NLP-spaCy%20%7C%20NLTK-green?style=flat-square" alt="NLP" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
   </tr>
 </table>
+
+---
+
+### 🚀 Projects
+
+- 🛡️ **[APIScan](https://github.com/sachinyadav7/DarkWeb_Research_Crawler)**: SaaS API security platform aligning with OWASP standards. Implements a concurrent scanning engine using Java and RabbitMQ, authorization, RBAC, and caching via Redis.
+- 🤖 **[AI Bug Predictor](https://github.com/sachinyadav7/ai-bug-predictor)**: Integrates transformer embeddings (CodeBERT) and ML models to achieve up to 0.85 F1-score on code vulnerability prediction.
+- 🔐 **[MediVault](https://github.com/sachinyadav7/MediVault-EHR-Platform)**: Secure records management platform containerized via Docker. Features AES-256 encryption, multi-factor authentication (MFA), and HIPAA-aligned audit trails.
+- 🤝 **[TrustGuardian](https://github.com/sachinyadav7/SwapSkills)**: Decentralized trust score platform that evaluates profile credibility utilizing ML-driven behavioral risk scoring.
+- 💬 **[Collaborative Editor](https://github.com/sachinyadav7/Notes)**: Real-time code editor and chat platform using Socket.io/WebSocket for low-latency concurrent document editing.
+- 👁️ **[Face Recognition Attendance](https://github.com/sachinyadav7/Attendance-Management-System-using-Face-Recognition)**: Python & OpenCV pipeline automating biometric validation, achieving 95% error reduction.
+
+---
+
+### 📜 Certifications
+- 🌐 **DevOps, DataOps, MLOps** — Duke University
+- 🛡️ **Cybersecurity Virtual Internship** — Palo Alto Networks
+- 🤖 **AI: Transformative Learning** — Microsoft & SAP TechSaksham
 
 ---
 
@@ -110,16 +132,6 @@ I am a passionate software engineer based in India, specializing in building ful
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-### 🚀 Highlight Projects
-
-- 🛡️ **[DarkWeb Research Crawler](https://github.com/sachinyadav7/DarkWeb_Research_Crawler)**: Secure crawling and threat intelligence system backed by NLP analytics.
-- 🏥 **[MediVault EHR Platform](https://github.com/sachinyadav7/MediVault-EHR-Platform)**: Fully functional Electronic Health Record platform for patient-doctor data sharing.
-- 👁️ **[Attendance Recognition System](https://github.com/sachinyadav7/Attendance-Management-System-using-Face-Recognition)**: Computer Vision automation application built with OpenCV and face recognition algorithms.
-- 💡 **[ai-bug-predictor](https://github.com/sachinyadav7/ai-bug-predictor)**: AI module leveraging Python to predict bugs and improve code quality proactively.
-- 🔄 **[SwapSkills](https://github.com/sachinyadav7/SwapSkills)**: An interactive micro Skill Swap application.
 
 ---
 
