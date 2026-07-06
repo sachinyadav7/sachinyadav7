@@ -105,7 +105,7 @@ I am a Cybersecurity-focused Computer Science undergraduate specializing in **Ap
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/2-stars-per-language.svg" alt="Stars per Language" />
+        <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits per Language" />
       </td>
       <td width="50%" align="center">
         <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
