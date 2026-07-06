@@ -92,31 +92,23 @@ I am a Cybersecurity-focused Computer Science undergraduate specializing in **Ap
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sachinyadav7&theme=radical&margin-w=15&margin-h=15" alt="sachinyadav7 trophies" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
-
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sachinyadav7&show_icons=true&theme=radical&count_private=true" alt="Sachin's GitHub Stats" />
+        <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/0-profile-details.svg" alt="Sachin's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinyadav7&layout=compact&theme=radical" alt="Most Used Languages" />
+        <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Most Used Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinyadav7&theme=radical" alt="GitHub Streak" />
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/2-stars-per-language.svg" alt="Stars per Language" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/sachinyadav7/sachinyadav7/output/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
       </td>
     </tr>
   </table>

@@ -1,12 +1,15 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Run every 24 hours
+    - cron: "0 0 * * *" # Run once a day
   workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -14,7 +17,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Generates a snake game from a github user contributions graph, output a svg animation at <svg_out_path>
+      # 1. Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Generate contribution snake SVGs
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,9 +29,24 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Push the content of <build_dir> to a branch
-      - name: Push github-contribution-grid-snake.svg to the output branch
+
+      # 3. Generate Profile Summary Cards
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          theme: radical
+
+      # 4. Copy summary cards to dist folder for deployment
+      - name: Copy summary cards to dist
+        run: |
+          mkdir -p dist/profile-summary-card-output
+          cp -r profile-summary-card-output/* dist/profile-summary-card-output/
+
+      # 5. Push generated assets to output branch
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
